@@ -1,0 +1,3 @@
+Name,FirstName,LastName,SamAccountName,Password,Groups
+John Doe,John,Doe,jdoe,Password123!,IT Support;VPN Users
+Sarah Smith,Sarah,Smith,ssmith,Password123!,HR;All Staff
