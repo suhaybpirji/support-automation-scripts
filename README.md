@@ -10,6 +10,31 @@ This repository demonstrates automation skills across Windows Server, Active Dir
 
 support-automation-scripts/
 │
+├── powershell/                 # Windows automation scripts
+│   ├── get-disk-usage.ps1
+│   ├── restart-service.ps1
+│   ├── export-eventlogs.ps1
+│   ├── network-diagnostics.ps1
+│   └── ad-bulk-user-create.ps1
+│
+├── bash/                       # Linux automation scripts
+│   ├── check-disk.sh
+│   ├── monitor-cpu.sh
+│   ├── monitor-logs.sh
+│   ├── network-diagnostics.sh
+│   └── system-health.sh
+│
+├── screenshots/                # Images used in README
+│   ├── powershell-scripts.png
+│   ├── linux-scripts.png
+│   ├── repo-structure.png
+│   └── running-scripts.png
+│
+├── users.csv                   # Sample CSV for AD bulk user creation
+│
+└── README.md                   # Documentation for the project
+support-automation-scripts/
+│
 ├── powershell/     # Windows & AD automation scripts
 ├── bash/           # Linux automation scripts
 └── README.md
