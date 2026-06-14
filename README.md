@@ -58,20 +58,9 @@ This project showcases:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here as you build the project:
-
-- Repo creation  
-- Folder structure  
-- Script examples  
-- Script output  
-
----
-
 ## 👨‍💻 Author
 
 **Suhayb Pirji**  
-Aspiring Cloud Engineer  
+Aspiring IT Professional
 
 
