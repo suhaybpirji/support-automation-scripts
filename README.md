@@ -7,7 +7,7 @@ This repository demonstrates automation skills across Windows Server, Active Dir
 ---
 
 ## 📂 Folder Structure
-
+```
 support-automation-scripts/
 │
 ├── powershell/                     # Windows automation scripts
@@ -27,7 +27,7 @@ support-automation-scripts/
 ├── users.csv                       # Sample CSV for AD bulk user creation
 │
 └── README.md                       # Project documentation
-
+```
 ---
 
 ## 🔵 PowerShell Scripts (Windows / AD)
